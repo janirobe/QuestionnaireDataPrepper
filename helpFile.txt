@@ -1,0 +1,18 @@
+Function: To clean raw questioannaire data and merge it with individual key demographics.
+
+Instructions:
+1. Download Questionnaire Submission data from Civi, place it in this folder, rename it "workbook".
+2. Download Questionnaire SPSS data from Civi, place it in this folder, rename it "data".
+3. Open up Spyder. Click file, open and search for the .py file (DataPrepper3.py) in this folder, open it.
+4. Once open, click the play button to run the script.
+5. Script should output a file with a name like "Processed_QuestioannaireName".
+6. Repeat steps for doing a different questionnaire, deleting the previous data and workbook file.
+
+
+Notes:
+* Do not change anything in the script
+* Do not change the name of this folder that the script is in
+* There needs to be two files with the following names and file types: "workbook.xlsx" and "data.csv"
+
+
+ 
